@@ -1,0 +1,550 @@
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png">
+    <meta name="apple-mobile-web-app-title" content="CodePen">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico">
+
+    <link rel="mask-icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111">
+
+    <title>Stop War For Ever</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="sara mazal lessons">
+    <meta name="keywords" content="Stop War For Ever">
+    <meta name="author" content="artesdosul">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500&amp;family=Raleway:wght@100;200;300;400;500&amp;family=Roboto:wght@300;400;700&amp;display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.3/particles.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: "ROBOTO", sans-serif;
+        }
+        
+        .nav,
+        .slider {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            position: relative;
+            background-color: #289047;
+            text-align: center;
+            padding: 0 2em;
+        }
+        .nav {
+            background-color: #6D3D9D;
+        }
+        
+        .nav h1,
+        .slider h1 {
+            font-family: "Josefin Sans", sans-serif;
+            font-size: 5vw;
+            margin: 0;
+            padding-bottom: 0.5rem;
+            letter-spacing: 0.3rem;
+            color: #ffd500;
+            transition: all 0.3s ease;
+            z-index: 3;
+            text-shadow: 7px 7px 7px rgba(0, 0, 0, 0.5);
+        }
+        
+        h1:hover {
+            transform: translate3d(0, -10px, 22px);
+            color: #ffffff;
+        }
+        
+        .slider h2 {
+            font-size: 4vw;
+            letter-spacing: 0.3rem;
+            font-family: "ROBOTO", sans-serif;
+            font-weight: 400;
+            color: #ffffff;
+            text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+            z-index: 4;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        
+        h3.span {
+            font-size: 2vw;
+            letter-spacing: 0.15rem;
+            font-family: "ROBOTO", sans-serif;
+            font-weight: 300;
+            color: #ffffff;
+            z-index: 4;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        
+        span:hover {
+            color: #ffffff;
+            font-weight: 500;
+            font-size: 2.2vw;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        .nav-container {
+            display: flex;
+            flex-direction: row;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 75px;
+            box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+            background: #005bbb;
+            z-index: 10;
+            transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+        }
+        
+        .nav-container--top-first {
+            position: fixed;
+            top: 75px;
+            transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+        }
+        
+        .nav-container--top-second {
+            position: fixed;
+            top: 0;
+        }
+        
+        .nav-container--top-second {
+            position: fixed;
+            top: 0;
+        }
+        
+        .nav-tab {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex: 1;
+            color: #ffd500;
+            letter-spacing: 0.1rem;
+            transition: all 0.5s ease;
+            font-size: 2vw;
+        }
+        
+        .nav-tab:hover {
+            color: #289047;
+            background: #ffd500;
+            transition: all 0.5s ease;
+        }
+        
+        .nav-tab-slider {
+            position: absolute;
+            bottom: 0;
+            width: 0;
+            height: 5px;
+            background: #ffd500;
+            transition: left 0.3s ease;
+        }
+        
+        .background {
+            position: absolute;
+            height: 100vh;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: auto;
+        }
+        
+        @media (min-width: 800px) {
+            .nav h1,
+            .slider h1 {
+                font-size: 5vw;
+            }
+            .nav h2,
+            .slider h2 {
+                font-size: 3vw;
+            }
+            .nav-tab {
+                font-size: 3vw;
+            }
+        }
+        
+        @media screen only (min-width: 360px) {
+            .nav h1,
+            .slider h1 {
+                font-size: 8vw;
+            }
+            .nav h2,
+            .slider h2 {
+                font-size: 2vw;
+                letter-spacing: 0.2vw;
+            }
+            .nav-tab {
+                font-size: 1.2vw;
+            }
+        }
+        
+        .background {
+            position: absolute;
+            height: 100vh;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 0;
+        }
+        
+        .loader span {
+            color: #ffffff;
+            text-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
+            -webkit-animation: loading 1s ease-in-out infinite alternate;
+        }
+        
+        @-webkit-keyframes loading {
+            to {
+                text-shadow: 20px 0 70px #rgba(0, 0, 0, 0.5);
+                color: #005bbb;
+            }
+        }
+        
+        .loader span:nth-child(2) {
+            -webkit-animation-delay: 0.1s;
+        }
+        
+        .loader span:nth-child(3) {
+            -webkit-animation-delay: 0.2s;
+        }
+        
+        .loader span:nth-child(4) {
+            -webkit-animation-delay: 0.3s;
+        }
+        
+        .loader span:nth-child(5) {
+            -webkit-animation-delay: 0.4s;
+        }
+        
+        .loader span:nth-child(6) {
+            -webkit-animation-delay: 0.5s;
+        }
+        
+        .loader span:nth-child(7) {
+            -webkit-animation-delay: 0.6s;
+        }
+        
+        .loader span:nth-child(8) {
+            -webkit-animation-delay: 0.7s;
+        }
+        
+        .loader span:nth-child(9) {
+            -webkit-animation-delay: 0.8s;
+        }
+        
+        .loader span:nth-child(10) {
+            -webkit-animation-delay: 0.9s;
+        }
+        
+        .loader span:nth-child(11) {
+            -webkit-animation-delay: 1s;
+        }
+        
+        .loader span:nth-child(12) {
+            -webkit-animation-delay: 1.1s;
+        }
+        
+        .loader span:nth-child(13) {
+            -webkit-animation-delay: 1.2s;
+        }
+        
+        .loader span:nth-child(14) {
+            -webkit-animation-delay: 1.3s;
+        }
+        
+        .loader span:nth-child(15) {
+            -webkit-animation-delay: 1.4s;
+        }
+        
+        .loader span:nth-child(16) {
+            -webkit-animation-delay: 1.5s;
+        }
+        
+        .loader span:nth-child(17) {
+            -webkit-animation-delay: 1.6s;
+        }
+        
+        .loader span:nth-child(18) {
+            -webkit-animation-delay: 1.7s;
+        }
+        
+        .loader span:nth-child(19) {
+            -webkit-animation-delay: 1.8s;
+        }
+        
+        .loader span:nth-child(20) {
+            -webkit-animation-delay: 1.9s;
+        }
+        
+        .loader span:nth-child(21) {
+            -webkit-animation-delay: 2s;
+        }
+        
+        .loader span:nth-child(22) {
+            -webkit-animation-delay: 2.1s;
+        }
+    </style>
+
+    <script>
+        window.console = window.console || function(t) {};
+    </script>
+
+
+
+    <script>
+        if (document.location.search.match(/type=embed/gi)) {
+            window.parent.postMessage("resize", "*");
+        }
+    </script>
+
+
+</head>
+
+<body translate="no">
+
+    <section class="nav">
+        <h1>STOP WAR FOR EVER</h1>
+        <h3 class="span loader">
+            <span class="m">B</span>
+            <span class="m">E</span>
+            <span class="m">N</span>
+            <span class="m">E</span>
+            <span class="m">F</span>
+            <span class="m">I</span>
+            <span class="m">T</span>
+            <span class="m">S</span>
+            <span class="m">&nbsp;</span>
+            <span class="m">o</span>
+            <span class="m">f</span>
+            <span class="m">&nbsp;</span>
+            <span class="m">T</span>
+            <span class="m">E</span>
+            <span class="m">C</span>
+            <span class="m">H</span>
+            <span class="m">N</span>
+            <span class="m">O</span>
+            <span class="m">L</span>
+            <span class="m">O</span>
+            <span class="m">G</span>
+
+            <span class="m">I</span>
+            <span class="m">E</span>
+            <span class="m">S</span>
+        </h3>
+        <div class="nav-container">
+            <a class="nav-tab" href="#tab-father">Father</a>
+            <a class="nav-tab" href="#tab-son">Son</a>
+            <a class="nav-tab" href="#tab-spirit">Spirit</a>
+            <a class="nav-tab" href="#tab-mother">Mother</a>
+            <a class="nav-tab" href="#tab-lux">Lux</a>
+            <span class="nav-tab-slider" style="width: 0px; left: 0px;"></span>
+        </div>
+    </section>
+
+    <main class="main">
+        <section class="slider" id="tab-father">
+            <h1>Glory to the Father and the Son and the Holy Spirit. As it was, in the beginning, now and forever. Amen</h1>
+        </section>
+        <section class="slider" id="tab-son">
+            <h1>Jesus meek and humble of heart make my heart like Yours</h1> 
+        </section>
+        <section class="slider" id="tab-spirit">
+            <h2>Come holy Spirit, fill the hearts of your faithful and kindle in them the fire of Your Love. Send your Spirit and everything will be created and you will renew the face of the earth. Let us pray: O God who has instructed the hearts of your faithful, with the light of the Holy Spirit, make us resow all things according to the same Spirit and enjoy his consolation. By Christ our Lord. Amen</h2>
+        </section>
+        <section class="slider" id="tab-mother">
+            <h2>Hail Queen! Mother of mercy, life, sweetness, our hope, Hail! We shout to you the degredos children of Eve. We sigh to you, moaning and weeping in this valley of tears. Bee, therefore, our lawyer, these merciful eyes of yours, i have returned to us, and after this desterro, show us Jesus, blessed fruit of your womb. The merciful, O pious, O sweet, always Virgin Mary.</h2>
+        </section>
+        <section class="slider" id="tab-lux">
+            <h3>Crux Sacra Sit Mihi Lux</h3>
+            <h3>Non Draco Sit Mihi Dux</h3>
+            <h3>Vade Retro Sátana</h3>
+            <h3>Nunquam Suade Mihi Vana</h3>
+            <h3>Sunt Mala Quae Libas</h3>
+            <h3>Ipse Venena Bibas</h3>
+        </section> 
+        <span style="vertical-align: bottom;
+				position: fixed;
+				bottom: 10px;
+				z-index: 37;
+				height: 15px;
+				right: 10px;"><a href="http://www.artesdosul.com" title="Design &amp; Hosted
+					by Artes so Sul" style="vertical-align: bottom; height: 15px;"><img
+						src="./artesdosul.jpg" style="vertical-align: bottom; height: 15px;"></a></span>
+    </main>
+    <canvas class="background" width="1343" height="198" style="width: 100%; height: 100%;"></canvas>
+
+    <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-1b93190375e9ccc259df3a57c1abc0e64599724ae30d7ea4c6877eb615f89387.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script id="rendered-js">
+        /* Credit and Thanks:
+            Matrix - Particles.js;
+            SliderJS - Ettrics;
+            Fonts - Google Fonts
+        */
+
+        window.onload = function() {
+            Particles.init({
+                selector: ".background"
+            });
+
+        };
+        var particles = Particles.init({
+            selector: ".background",
+            maxParticles: 144,
+            color: ["#8b00b8", "#110087", "#169fef", "#217410", "#dfda0d", "#f38d09", "#a31d10"],
+            connectParticles: true,
+            responsive: [{
+                breakpoint: 768,
+                options: {
+                    color: ["#8b00b8", "#110087", "#169fef", "#217410", "#dfda0d", "#f38d09", "#a31d10"],
+                    maxParticles: 43,
+                    connectParticles: false
+                }
+            }]
+        });
+
+        class NavigationPage {
+            constructor() {
+                this.currentId = null;
+                this.currentTab = null;
+                this.tabContainerHeight = 70;
+                this.lastScroll = 0;
+                let self = this;
+                $(".nav-tab").click(function() {
+                    self.onTabClick(event, $(this));
+                });
+                $(window).scroll(() => {
+                    this.onScroll();
+                });
+                $(window).resize(() => {
+                    this.onResize();
+                });
+            }
+
+            onTabClick(event, element) {
+                event.preventDefault();
+                let scrollTop =
+                    $(element.attr("href")).offset().top - this.tabContainerHeight + 1;
+                $("html, body").animate({
+                    scrollTop: scrollTop
+                }, 600);
+            }
+
+            onScroll() {
+                this.checkHeaderPosition();
+                this.findCurrentTabSelector();
+                this.lastScroll = $(window).scrollTop();
+            }
+
+            onResize() {
+                if (this.currentId) {
+                    this.setSliderCss();
+                }
+            }
+
+            checkHeaderPosition() {
+                const headerHeight = 75;
+                if ($(window).scrollTop() > headerHeight) {
+                    $(".header").addClass("header--scrolled");
+                } else {
+                    $(".header").removeClass("header--scrolled");
+                }
+                let offset =
+                    $(".nav").offset().top +
+                    $(".nav").height() -
+                    this.tabContainerHeight -
+                    headerHeight;
+                if (
+                    $(window).scrollTop() > this.lastScroll &&
+                    $(window).scrollTop() > offset) {
+                    $(".header").addClass("et-header--move-up");
+                    $(".nav-container").removeClass("nav-container--top-first");
+                    $(".nav-container").addClass("nav-container--top-second");
+                } else if (
+                    $(window).scrollTop() < this.lastScroll &&
+                    $(window).scrollTop() > offset) {
+                    $(".header").removeClass("et-header--move-up");
+                    $(".nav-container").removeClass("nav-container--top-second");
+                    $(".et-hero-tabs-container").addClass(
+                        "et-hero-tabs-container--top-first");
+
+                } else {
+                    $(".header").removeClass("header--move-up");
+                    $(".nav-container").removeClass("nav-container--top-first");
+                    $(".nav-container").removeClass("nav-container--top-second");
+                }
+            }
+
+            findCurrentTabSelector(element) {
+                let newCurrentId;
+                let newCurrentTab;
+                let self = this;
+                $(".nav-tab").each(function() {
+                    let id = $(this).attr("href");
+                    let offsetTop = $(id).offset().top - self.tabContainerHeight;
+                    let offsetBottom =
+                        $(id).offset().top + $(id).height() - self.tabContainerHeight;
+                    if (
+                        $(window).scrollTop() > offsetTop &&
+                        $(window).scrollTop() < offsetBottom) {
+                        newCurrentId = id;
+                        newCurrentTab = $(this);
+                    }
+                });
+                if (this.currentId != newCurrentId || this.currentId === null) {
+                    this.currentId = newCurrentId;
+                    this.currentTab = newCurrentTab;
+                    this.setSliderCss();
+                }
+            }
+
+            setSliderCss() {
+                let width = 0;
+                let left = 0;
+                if (this.currentTab) {
+                    width = this.currentTab.css("width");
+                    left = this.currentTab.offset().left;
+                }
+                $(".nav-tab-slider").css("width", width);
+                $(".nav-tab-slider").css("left", left);
+            }
+        }
+
+
+        new NavigationPage();
+
+        /* Credit and Thanks:
+        Matrix - Particles.js;
+        SliderJS - Ettrics;
+        Fonts - Google Fonts
+        */
+        //# sourceURL=pen.js
+    </script>
+    <script type="text/javascript" src="./js/scrolltopcontrol.js"></script>
+
+</body>
+
+</html>
