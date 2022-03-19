@@ -154,21 +154,6 @@ a {
     }
 }
 
-@media screen only (min-width: 360px) {
-    .nav h1,
-    .slider h1 {
-        font-size: 8vw;
-    }
-    .nav h2,
-    .slider h2 {
-        font-size: 2vw;
-        letter-spacing: 0.2vw;
-    }
-    .nav-tab {
-        font-size: 1.2vw;
-    }
-}
-
 .background {
     position: absolute;
     height: 100vh;
@@ -276,4 +261,8 @@ a {
 
 .loader span:nth-child(22) {
     -webkit-animation-delay: 2.1s;
+}
+
+section h1, section h2 {
+    margin: 0px 25px 0px 25px;
 }
