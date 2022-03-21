@@ -266,3 +266,20 @@ a {
 section h1, section h2 {
     margin: 0px 25px 0px 25px;
 }
+
+.flag {
+    vertical-align: bottom;
+    height: 28px;
+    border-radius: 50%;
+    background: navajowhite;
+    padding: 1px;
+    margin: 2px;
+}
+
+.lang {
+    vertical-align: bottom;
+    position: fixed;    
+    z-index: 37;
+    height: 30px;
+    left: 10px;
+}
