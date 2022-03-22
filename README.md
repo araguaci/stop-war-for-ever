@@ -19,14 +19,10 @@
 
 **Russian forces took Chernobyl nuclear plant and are clearing secret bioweapons labs in Ukraine:**  
    
- - [putins-shock-awe-war-ukraine-unfolds-dark-day-europe-many-hundreds-killed](https://www.zerohedge.com/geopolitical/putins-shock-awe-war-ukraine-unfolds-dark-day-europe-many-hundreds-killed )  
-   
- - [ukraine-war-nuclear-risk-russia-missiles-accidental-hits-reactors-1478269](https://inews.co.uk/news/world/ukraine-war-nuclear-risk-russia-missiles-accidental-hits-reactors-1478269 )  
-   
- - [breaking-russian-forces-enter-chernobyl-26320432](https://www.mirror.co.uk/news/world-news/breaking-russian-forces-enter-chernobyl-26320432 )  
-   
- - [russia-ukraine-invasion-bioweapons-labs-patrushev-putin-wuhan-coronavirus/](https://www.opindia.com/2022/02/russia-ukraine-invasion-bioweapons-labs-patrushev-putin-wuhan-coronavirus/ )** 
-
+ - [putins-shock-awe-war-ukraine-unfolds-dark-day-europe-many-hundreds-killed](https://www.zerohedge.com/geopolitical/putins-shock-awe-war-ukraine-unfolds-dark-day-europe-many-hundreds-killed)   
+ - [ukraine-war-nuclear-risk-russia-missiles-accidental-hits-reactors-1478269](https://inews.co.uk/news/world/ukraine-war-nuclear-risk-russia-missiles-accidental-hits-reactors-1478269)   
+ - [breaking-russian-forces-enter-chernobyl-26320432](https://www.mirror.co.uk/news/world-news/breaking-russian-forces-enter-chernobyl-26320432)     
+ - [**russia-ukraine-invasion-bioweapons-labs-patrushev-putin-wuhan-coronavirus**](https://www.opindia.com/2022/02/russia-ukraine-invasion-bioweapons-labs-patrushev-putin-wuhan-coronavirus/ )
  - [**twitter-account-showing-russian-ukrainian-attacks-on-us-biolabs-suspiciously-suspended-after-viral-tweets**](https://stillnessinthestorm.com/2022/02/twitter-account-showing-russian-ukrainian-attacks-on-us-biolabs-suspiciously-suspended-after-viral-tweets/)
    
 **Protection of Ukrainian nuclear plants and biolabs from any damage that would cause radioactive or biohazard fallout has been included in the revised meditation instructions below.**
@@ -42,7 +38,6 @@
 **On the other hand, Russia has made clear that if the US or NATO get involved in any conflict between Russia and Ukraine, then ALL participating nations would make themselves legitimate targets for Russian attack.**
 
 [**https://halturnerradioshow.com/index.php/en/news-page/news-nation/us-amphibious-assault-ships-to-try-crimea-take-back-from-russia**](https://halturnerradioshow.com/index.php/en/news-page/news-nation/us-amphibious-assault-ships-to-try-crimea-take-back-from-russia)  
-
 
 **Russia has also given until Friday, January 21st for NATO and the US to accept the proposals on security guarantees.**
 
@@ -105,9 +100,7 @@ You can also do this meditation in your own time as frequently as you feel guide
 Here is the facebook event link for this meditation (updated): 
 
 [https://www.facebook.com/events/1076714906209846](https://www.facebook.com/events/1076714906209846)
-
   
-
 And here is the guided audio Youtube playlist short link (updated): 
 
 [https://bit.ly/3pi7FML](https://bit.ly/3pi7FML)
@@ -120,15 +113,9 @@ Instructions of this meditation: (Suggested time for this meditation is 15 minut
 
 1\. Use your own technique to bring you to a relaxed state of consciousness
 
-  
-
 2\. State your intent to bring peace and healing to the situation between Russia, Ukraine and NATO.
 
-  
-
 3\. Invoke the Violet Flame from its primary source to place a circle of protection around you during and after the meditation. Ask it to transmute anything that does not serve the Light.
-
-  
 
 4\. Visualize a pillar of pink Light, emanating from the Galactic Central Sun and then descending down through your body and deep into the center of the Earth.
 
@@ -138,13 +125,9 @@ Instructions of this meditation: (Suggested time for this meditation is 15 minut
 
 7\. Then, ask the Goddess presence (the Divine Feminine) to direct energies of peace and harmony to all unresolved situations between Russia, Ukraine and NATO, and everyone involved in these situations, especially protecting civilians from the military conflict in Ukraine. Let these energies then flow onwards and heal all other conflicts worldwide. Allow these energies to continue to flow through your heart and then through your hands into these situations for a few minutes.
 
- 
-
 Please feel free to include this situation in the daily Emergency Meditation at 2 PM UTC. Visualize the situation between Russia and NATO being resolved in a peaceful way as quickly as possible.
-
   
-
-[https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html](https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html)
+[https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and](https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html)
 
 **Goddess wants peace and peace it will be.**
 
@@ -154,98 +137,62 @@ We Love Mass Meditation organizes Mass Meditations aiming to help achieve planet
 
 Please join any of the meditations below if you feel so guided.
 
-Divine Intervention Meditation at the exact moment of the full moon  
+### Divine Intervention Meditation at the exact moment of the full moon  
 
- - [divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon.html](https://www.welovemassmeditation.com/2021/12/divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon.html)  
+ - [divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon](https://www.welovemassmeditation.com/2021/12/divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon.html)  
 
-Urgent meditation for liberating all hostages from underground bases
+### Urgent meditation for liberating all hostages from underground bases
 
- - [urgent-meditation-for-liberating-all-hostages-from-underground-bases.html](https://www.welovemassmeditation.com/2021/05/urgent-meditation-for-liberating-all-hostages-from-underground-bases.html)  
+ - [urgent-meditation-for-liberating-all-hostages-from-underground-bases](https://www.welovemassmeditation.com/2021/05/urgent-meditation-for-liberating-all-hostages-from-underground-bases.html)  
 
-Meditation for Taiwan every 4 hours
+### Meditation for Taiwan every 4 hours
 
- - [meditation-for-taiwan-every-4-hours.html](https://www.welovemassmeditation.com/2021/09/meditation-for-taiwan-every-4-hours.html)   
+ - [meditation-for-taiwan-every-4-hours](https://www.welovemassmeditation.com/2021/09/meditation-for-taiwan-every-4-hours.html)   
 
-  
+### Meditation for Afghanistan every 4 hours
 
-Meditation for Afghanistan every 4 hours
+ - [meditation-for-afghanistan-every-4-hours](https://www.welovemassmeditation.com/2021/08/meditation-for-afghanistan-every-4-hours.html)  
 
- - [meditation-for-afghanistan-every-4-hours.html](https://www.welovemassmeditation.com/2021/08/meditation-for-afghanistan-every-4-hours.html)  
+### Flower of Life Meditation, 12 PM UTC and every 4 hours, also at any time and as often as possible
 
-Flower of Life Meditation, 12 PM UTC and every 4 hours, also at any time and as often as possible
+ - [flower-of-life-meditation-every-4-hours](https://www.welovemassmeditation.com/2019/09/flower-of-life-meditation-every-4-hours.html)
 
-  
+### Meditation to counteract medical tyranny daily at 9:30 PM UTC
 
- - [flower-of-life-meditation-every-4-hours.html](https://www.welovemassmeditation.com/2019/09/flower-of-life-meditation-every-4-hours.html)
+ - [meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc](https://www.welovemassmeditation.com/2020/09/meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc.html)
 
-  
+### End of Coronavirus Meditation at 3 PM UTC and every 4 hours
 
-Meditation to counteract medical tyranny daily at 9:30 PM UTC
+ - [end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours](http://www.welovemassmeditation.com/2020/04/end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours.html)
 
- - [meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc.html](https://www.welovemassmeditation.com/2020/09/meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc.html)
+### Meditation to stop the Coronavirus outbreak globally every 4 hours
 
-  
+ - [Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours](https://www.welovemassmeditation.com/2020/01/Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours.html)
 
-End of Coronavirus Meditation at 3 PM UTC and every 4 hours
+### Emergency Meditation at 2 PM UTC
 
-  
+ - [breakthrough-meditation-at-2-pm-utc-and](https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html)
 
- - [end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours.html](http://www.welovemassmeditation.com/2020/04/end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours.html)
+### Goddess Vortex Meditation at 2:30 PM UTC
 
-  
+ - [goddess-vortex-meditation-at-230-pm-utc-every-day](https://www.welovemassmeditation.com/2021/01/goddess-vortex-meditation-at-230-pm-utc-every-day.html)  
 
-Meditation to stop the Coronavirus outbreak globally every 4 hours
+### Cosmic Central Race Meditation at 3:15 PM UTC
 
-  
+ - [cosmic-central-race-meditation-at-315](https://www.welovemassmeditation.com/2019/02/cosmic-central-race-meditation-at-315.html)
 
- - [Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours.html](https://www.welovemassmeditation.com/2020/01/Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours.html)
+### Buddhic Columns Meditation at 3:30 PM UTC
 
-  
+ - [daily-buddhic-columns-meditation-at-330](https://www.welovemassmeditation.com/2018/10/daily-buddhic-columns-meditation-at-330.html)
 
-Emergency Meditation at 2 PM UTC
+### We also organize different mass meditations regularly for various purposes. They can be found in this link below:
 
-  
-
- - [breakthrough-meditation-at-2-pm-utc-and.html](https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html)
-
-  
-
-Goddess Vortex Meditation at 2:30 PM UTC
-
-  
-
- - [goddess-vortex-meditation-at-230-pm-utc-every-day.html](https://www.welovemassmeditation.com/2021/01/goddess-vortex-meditation-at-230-pm-utc-every-day.html)  
-
-  
-
-Cosmic Central Race Meditation at 3:15 PM UTC
-
-  
-
- - [cosmic-central-race-meditation-at-315.html](https://www.welovemassmeditation.com/2019/02/cosmic-central-race-meditation-at-315.html)
-
-  
-
-Buddhic Columns Meditation at 3:30 PM UTC
-
-  
-
- - [daily-buddhic-columns-meditation-at-330.html](https://www.welovemassmeditation.com/2018/10/daily-buddhic-columns-meditation-at-330.html)
-
-  
-
-We also organize different mass meditations regularly for various purposes. They can be found in this link below:
-
-  
-
-[https://welovemassmeditation.blogspot.co.uk/p/blog-page.html](https://welovemassmeditation.blogspot.co.uk/p/blog-page.html)
+[https://welovemassmeditation.blogspot.co.uk/p/blog-page](https://welovemassmeditation.blogspot.co.uk/p/blog-page.html)
 
   
 **We Love Mass Meditation Healing Group**
 
 You are welcome to join our healing group to request healing from healers around the world, we are also looking for qualified healers to join this group to help people in need
-
-  
 
 [https://www.facebook.com/groups/welovemassmeditationhealing](https://www.facebook.com/groups/welovemassmeditationhealing)
 
