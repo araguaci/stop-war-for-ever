@@ -11,9 +11,9 @@
 
 **War between Russia and Ukraine has started:**
   
-[https://halturnerradioshow.com/index.php/en/news-page/world/russia-commences-de-militarization-and-de-nazification-of-ukraine-by-force](https://halturnerradioshow.com/index.php/en/news-page/world/russia-commences-de-militarization-and-de-nazification-of-ukraine-by-force)  
+ - [russia-commences-de-militarization-and-de-nazification-of-ukraine-by-force](https://halturnerradioshow.com/index.php/en/news-page/world/russia-commences-de-militarization-and-de-nazification-of-ukraine-by-force)  
   
-[https://www.zerohedge.com/geopolitical/separatist-leaders-issue-formal-request-russian-army-repel-ukrainian-aggression](https://www.zerohedge.com/geopolitical/separatist-leaders-issue-formal-request-russian-army-repel-ukrainian-aggression)**
+ - [separatist-leaders-issue-formal-request-russian-army-repel-ukrainian-aggression](https://www.zerohedge.com/geopolitical/separatist-leaders-issue-formal-request-russian-army-repel-ukrainian-aggression)**
 
 **Therefore the Light Forces are asking everyone who feels so guided to participate in our meditation for restoring peace to Ukraine, every 4 hours.** 
 
@@ -64,23 +64,23 @@ Unfortunately, many people in the US government believe that Russia wants to inv
 
 They fail to comprehend Russia's concerns and continue to push for conflicts with Russia.
 
-[https://www.paulcraigroberts.org/2022/01/12/no-reassurance-for-russia-is-dangerous/](https://www.paulcraigroberts.org/2022/01/12/no-reassurance-for-russia-is-dangerous/)
+ - [no-reassurance-for-russia-is-dangerous/](https://www.paulcraigroberts.org/2022/01/12/no-reassurance-for-russia-is-dangerous/)
 
 Without security guarantees and a pressing threat, Russia could respond with military and technical means.  
   
-[https://halturnerradioshow.com/index.php/en/news-page/world/breaking-news-urgent-russia-declares-nato-talks-failure-says-will-use-military-means](https://halturnerradioshow.com/index.php/en/news-page/world/breaking-news-urgent-russia-declares-nato-talks-failure-says-will-use-military-means)
+ - [breaking-news-urgent-russia-declares-nato-talks-failure-says-will-use-military-means](https://halturnerradioshow.com/index.php/en/news-page/world/breaking-news-urgent-russia-declares-nato-talks-failure-says-will-use-military-means)
 
 There is a possibility that Russia would deploy anti-satellite weapons which can disrupt communication and GPS services.
 
 They may also attack over-the-horizon radar sites in the US, which would leave the country vulnerable to missiles attacks.  
 
-[https://halturnerradioshow.com/index.php/en/news-page/world/satellites-would-be-attacked-first-then-these-radar-stations-if-ww3-commences-next-week](https://halturnerradioshow.com/index.php/en/news-page/world/satellites-would-be-attacked-first-then-these-radar-stations-if-ww3-commences-next-week)
+ - [satellites-would-be-attacked-first-then-these-radar-stations-if-ww3-commences-next-week](https://halturnerradioshow.com/index.php/en/news-page/world/satellites-would-be-attacked-first-then-these-radar-stations-if-ww3-commences-next-week)
 
 This could then lead to serious conflict between Russia and the US-led NATO. 
 
 Nonetheless, the de-escalation of the situation is still possible if every party involved in the situation works together to implement a peaceful solution, including the agreed Minsk agreements.  
 
-[https://www.rt.com/russia/545855-nato-russia-brussels-talks/](https://www.rt.com/russia/545855-nato-russia-brussels-talks/)
+ - [nato-russia-brussels-talks/](https://www.rt.com/russia/545855-nato-russia-brussels-talks/)
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiL0ROy-lGXmfUjCeUw6fHOdaGohak_iHXzyzOb3TeGuMlykS0RRNl4RaFbwFk6qttyShVjEzrvs7DuyFyKGS5fSLXztfwrFSt1QxK-cR16uk4jTsRanXqc7BlAq48fjnBgxwKARCVeHChMwIu9A1sAA6vfD8ukMBZojLLjrfCFJ3uFf_9CHRgSDMUW=w640-h356)](https://blogger.googleusercontent.com/img/a/AVvXsEiL0ROy-lGXmfUjCeUw6fHOdaGohak_iHXzyzOb3TeGuMlykS0RRNl4RaFbwFk6qttyShVjEzrvs7DuyFyKGS5fSLXztfwrFSt1QxK-cR16uk4jTsRanXqc7BlAq48fjnBgxwKARCVeHChMwIu9A1sAA6vfD8ukMBZojLLjrfCFJ3uFf_9CHRgSDMUW=s1109)
 
@@ -156,33 +156,33 @@ Please join any of the meditations below if you feel so guided.
 
 Divine Intervention Meditation at the exact moment of the full moon  
 
-[https://www.welovemassmeditation.com/2021/12/divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon.html](https://www.welovemassmeditation.com/2021/12/divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon.html)  
+ - [divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon.html](https://www.welovemassmeditation.com/2021/12/divine-intervention-meditation-at-exact-moment-of-the-full-moon-and-peace-meditation-for-syria-at-the-exact-moment-of-the-new-moon.html)  
 
 Urgent meditation for liberating all hostages from underground bases
 
-[https://www.welovemassmeditation.com/2021/05/urgent-meditation-for-liberating-all-hostages-from-underground-bases.html](https://www.welovemassmeditation.com/2021/05/urgent-meditation-for-liberating-all-hostages-from-underground-bases.html)  
+ - [urgent-meditation-for-liberating-all-hostages-from-underground-bases.html](https://www.welovemassmeditation.com/2021/05/urgent-meditation-for-liberating-all-hostages-from-underground-bases.html)  
 
 Meditation for Taiwan every 4 hours
 
-[https://www.welovemassmeditation.com/2021/09/meditation-for-taiwan-every-4-hours.html](https://www.welovemassmeditation.com/2021/09/meditation-for-taiwan-every-4-hours.html)   
+ - [meditation-for-taiwan-every-4-hours.html](https://www.welovemassmeditation.com/2021/09/meditation-for-taiwan-every-4-hours.html)   
 
   
 
 Meditation for Afghanistan every 4 hours
 
-[https://www.welovemassmeditation.com/2021/08/meditation-for-afghanistan-every-4-hours.html](https://www.welovemassmeditation.com/2021/08/meditation-for-afghanistan-every-4-hours.html)  
+ - [meditation-for-afghanistan-every-4-hours.html](https://www.welovemassmeditation.com/2021/08/meditation-for-afghanistan-every-4-hours.html)  
 
 Flower of Life Meditation, 12 PM UTC and every 4 hours, also at any time and as often as possible
 
   
 
-[https://www.welovemassmeditation.com/2019/09/flower-of-life-meditation-every-4-hours.html](https://www.welovemassmeditation.com/2019/09/flower-of-life-meditation-every-4-hours.html)
+ - [flower-of-life-meditation-every-4-hours.html](https://www.welovemassmeditation.com/2019/09/flower-of-life-meditation-every-4-hours.html)
 
   
 
 Meditation to counteract medical tyranny daily at 9:30 PM UTC
 
-[https://www.welovemassmeditation.com/2020/09/meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc.html](https://www.welovemassmeditation.com/2020/09/meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc.html)
+ - [meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc.html](https://www.welovemassmeditation.com/2020/09/meditation-to-counteract-engineer-second-wave-lockdowns-daily-at-930-pm-utc.html)
 
   
 
@@ -190,7 +190,7 @@ End of Coronavirus Meditation at 3 PM UTC and every 4 hours
 
   
 
-[http://www.welovemassmeditation.com/2020/04/end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours.html](http://www.welovemassmeditation.com/2020/04/end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours.html)
+ - [end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours.html](http://www.welovemassmeditation.com/2020/04/end-of-coronavirus-meditation-on-sunday-at-3pm-utc-and-every-4-hours.html)
 
   
 
@@ -198,7 +198,7 @@ Meditation to stop the Coronavirus outbreak globally every 4 hours
 
   
 
-[https://www.welovemassmeditation.com/2020/01/Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours.html](https://www.welovemassmeditation.com/2020/01/Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours.html)
+ - [Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours.html](https://www.welovemassmeditation.com/2020/01/Urgent-meditation-to-stop-the-pandemics-outbreak-in-china-every-4-hours.html)
 
   
 
@@ -206,7 +206,7 @@ Emergency Meditation at 2 PM UTC
 
   
 
-[https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html](https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html)
+ - [breakthrough-meditation-at-2-pm-utc-and.html](https://www.welovemassmeditation.com/2018/02/breakthrough-meditation-at-2-pm-utc-and.html)
 
   
 
@@ -214,7 +214,7 @@ Goddess Vortex Meditation at 2:30 PM UTC
 
   
 
-[https://www.welovemassmeditation.com/2021/01/goddess-vortex-meditation-at-230-pm-utc-every-day.html](https://www.welovemassmeditation.com/2021/01/goddess-vortex-meditation-at-230-pm-utc-every-day.html)  
+ - [goddess-vortex-meditation-at-230-pm-utc-every-day.html](https://www.welovemassmeditation.com/2021/01/goddess-vortex-meditation-at-230-pm-utc-every-day.html)  
 
   
 
@@ -222,7 +222,7 @@ Cosmic Central Race Meditation at 3:15 PM UTC
 
   
 
-[https://www.welovemassmeditation.com/2019/02/cosmic-central-race-meditation-at-315.html](https://www.welovemassmeditation.com/2019/02/cosmic-central-race-meditation-at-315.html)
+ - [cosmic-central-race-meditation-at-315.html](https://www.welovemassmeditation.com/2019/02/cosmic-central-race-meditation-at-315.html)
 
   
 
@@ -230,7 +230,7 @@ Buddhic Columns Meditation at 3:30 PM UTC
 
   
 
-[https://www.welovemassmeditation.com/2018/10/daily-buddhic-columns-meditation-at-330.html](https://www.welovemassmeditation.com/2018/10/daily-buddhic-columns-meditation-at-330.html)
+ - [daily-buddhic-columns-meditation-at-330.html](https://www.welovemassmeditation.com/2018/10/daily-buddhic-columns-meditation-at-330.html)
 
   
 
@@ -241,23 +241,6 @@ We also organize different mass meditations regularly for various purposes. They
 [https://welovemassmeditation.blogspot.co.uk/p/blog-page.html](https://welovemassmeditation.blogspot.co.uk/p/blog-page.html)
 
   
-
-**Donation to We Love Mass Meditation Fund**
-
-  
-
-We Love Mass Meditation Fund provides emergency financial support to Lightworkers around the world. Please feel free to make a regular or one-off contribution using the link below:
-
-  
-
-[paypal.me/WeLoveMassMeditation](https://paypal.me/WeLoveMassMeditation)
-
-  
-
-Please assist/support us for a smooth transition in planetary liberation in the highest Light.
-
-  
-
 **We Love Mass Meditation Healing Group**
 
 You are welcome to join our healing group to request healing from healers around the world, we are also looking for qualified healers to join this group to help people in need
@@ -266,7 +249,10 @@ You are welcome to join our healing group to request healing from healers around
 
 [https://www.facebook.com/groups/welovemassmeditationhealing](https://www.facebook.com/groups/welovemassmeditationhealing)
 
-[NATO](https://www.welovemassmeditation.com/search/label/NATO) [Peace Meditation](https://www.welovemassmeditation.com/search/label/Peace%20Meditation) [Russia](https://www.welovemassmeditation.com/search/label/Russia) [Ukraine](https://www.welovemassmeditation.com/search/label/Ukraine)
+ - [NATO](https://www.welovemassmeditation.com/search/label/NATO)
+ - [Peace Meditation](https://www.welovemassmeditation.com/search/label/Peace%20Meditation) 
+ - [Russia](https://www.welovemassmeditation.com/search/label/Russia) 
+ - [Ukraine](https://www.welovemassmeditation.com/search/label/Ukraine)
 
 ### Divine Intervention Meditation at the exact moment of the full moon
 
