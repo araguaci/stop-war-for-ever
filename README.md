@@ -1,3 +1,28 @@
+## Cinco Milhões de Ave-Marias
+
+Em 1990, o Professor e líder católico Dr. Plinio Corrêa de Oliveira, através da TFP brasileira e entidades afins pelo mundo inteiro, promoveu um abaixo-assinado de mais de 5.000.000 de assinaturas pedindo a liberdade da Lituânia do jugo comunista. Foi o maior abaixo-assinado da História, que contribuiu para a conquista, não só da liberdade daquele país, como do fim da URSS.
+
+A Lituânia foi libertada do jugo comunista e a Ucrânia também.
+
+O IPCO, juntamente com as entidades afins e co-irmãs de todo o mundo, promove uma campanha de orações pelos nossos irmãos católicos e por todos os ucranianos que estão sendo novamente ameaçados pelas ambições de Putin em refazer a URSS e muitos sacrificando a própria vida.
+
+Acesse [https://www.rezepelaucrania.org.br/](https://www.rezepelaucrania.org.br/) para marcar o números de Ave-Marias que você já rezou.
+
+[➤ Reze pela Ucrânia](https://www.rezepelaucrania.org.br/pt-BR)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+## Pray for Ukraine
+
+In 1990, Professor and Catholic leader Dr. Plinio Corrêa de Oliveira, through the Brazilian TFP and similar entities around the world, promoted a petition of more than5,000,000of signatures calling for the release of Lithuania from the communist yoke. It was the biggest petition in history, which contributed to the conquest, not only of the freedom of that country, with the end of the USSR.
+
+    Today, IPCO, together with similar entities and sisters from all over the world, promotes a prayer campaign for our Catholic brothers and for all Ukrainians, who are being threatened again by the communist yoke, many of them sacrificing their own lives.
+
+    Our goal is to achieve5,000,000of Hail Marys prayed all over the world, asking Our Lady to free Ukraine from war and the communist yoke.
+
+[➤ Pray for Ukraine](https://www.rezepelaucrania.org.br/en)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ### [We Love Mass Meditation](https://www.welovemassmeditation.com/)
 
