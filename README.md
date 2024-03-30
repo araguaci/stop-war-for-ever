@@ -82,7 +82,7 @@ As **operações militares dos Estados Unidos da América** em outros países s�
 
 Apenas 11 das intervenções contaram com declarações de guerra aprovadas pelo [Poder Legislativo](https://pt.wikipedia.org/wiki/Congresso_dos_Estados_Unidos "Congresso dos Estados Unidos").[\[1\]](#cite_note-1)
 
-A principal fonte de informações para esta cronologia é um relatório do Serviço de Pesquisas do [Congresso dos Estados Unidos]("https://crsreports.congress.gov/product/pdf/R/R42738/34").[\[2\]](#cite_note-2)
+A principal fonte de informações para esta cronologia é um relatório do Serviço de Pesquisas do [Congresso dos Estados Unidos](https://crsreports.congress.gov/product/pdf/R/R42738/34).[\[2\]](#cite_note-2)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
