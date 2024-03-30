@@ -82,10 +82,7 @@ As **operações militares dos Estados Unidos da América** em outros países s�
 
 Apenas 11 das intervenções contaram com declarações de guerra aprovadas pelo [Poder Legislativo](https://pt.wikipedia.org/wiki/Congresso_dos_Estados_Unidos "Congresso dos Estados Unidos").[\[1\]](#cite_note-1)
 
-Cronologia\[[editar](/w/index.php?title=Cronologia_das_opera%C3%A7%C3%B5es_militares_dos_Estados_Unidos&veaction=edit&section=1 "Editar secção: Cronologia") | [editar código-fonte](/w/index.php?title=Cronologia_das_opera%C3%A7%C3%B5es_militares_dos_Estados_Unidos&action=edit&section=1 "Editar código-fonte da secção: Cronologia")\]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-A principal fonte de informações para esta [cronologia](https://pt.wikipedia.org/wiki/Cronologia "Cronologia") é um relatório do Serviço de Pesquisas do [Congresso dos Estados Unidos](https://pt.wikipedia.org/wiki/Congresso_dos_Estados_Unidos "Congresso dos Estados Unidos").[\[2\]](#cite_note-2)
+A principal fonte de informações para esta cronologia é um relatório do Serviço de Pesquisas do [Congresso dos Estados Unidos]("https://crsreports.congress.gov/product/pdf/R/R42738/34").[\[2\]](#cite_note-2)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -691,8 +688,8 @@ A principal fonte de informações para esta [cronologia](https://pt.wikipedia.o
 *   [Expansão ultramarina dos Estados Unidos](https://pt.wikipedia.org/wiki/Expans%C3%A3o_ultramarina_dos_Estados_Unidos "Expansão ultramarina dos Estados Unidos")
 *   [Imperialismo norte-americano](https://pt.wikipedia.org/wiki/Imperialismo_norte-americano "Imperialismo norte-americano")
 
-Referências
------------
+
+### Referências
 
 1.  [↑](#cite_ref-1 "Ir para cima") [EE.UU. ha intervenido en cientos de guerras durante los últimos 215 años. Sin embargo, solo 11 fueron autorizadas por el Congreso de EE.UU.](https://actualidad.rt.com/actualidad/view/105080-congreso-eeuu-guerra-autorzacion-siria), em castellano, acesso em 20 de setembro de 2013
 2.  [↑](#cite_ref-2 "Ir para cima") ["Instances of Use of United States Armed Forces Abroad, 1798-2021" Updated September 8, 2021 Congressional Research Service reports](https://crsreports.congress.gov/product/pdf/R/R42738/34) Grimmett, Richard F. em inglês, acessado em 08 de junho de 2010
@@ -750,16 +747,9 @@ Referências
 *   [Conversations with History: Militarism and the American Empire](http://globetrotter.berkeley.edu/people4/CJohnson/cjohnson-con0.html) – With [Chalmers Johnson](https://pt.wikipedia.org/wiki/Chalmers_Johnson "Chalmers Johnson"), President of the [Japan Policy Research Institute](/w/index.php?title=Japan_Policy_Research_Institute&action=edit&redlink=1 "Japan Policy Research Institute (página não existe)") – [RealVideo](/w/index.php?title=RealVideo&action=edit&redlink=1 "RealVideo (página não existe)") format.
 *   [Congressional Research Service report RL30172: Hundreds of instances of the employment of U.S. military forces abroad](http://www.au.af.mil/au/awc/awcgate/crs/rl30172.htm)
 *   [FROM WOUNDED KNEE TO SYRIA: A CENTURY OF U.S. MILITARY INTERVENTIONS](http://academic.evergreen.edu/g/grossmaz/interventions.html)
+*   [Conflitos armados envolvendo](https://pt.wikipedia.org/wiki/Lista_de_conflitos_envolvendo_os_Estados_Unidos "Lista de conflitos envolvendo os Estados Unidos") as [Forças Armadas dos Estados Unidos](https://pt.wikipedia.org/wiki/For%C3%A7as_Armadas_dos_Estados_Unidos "Forças Armadas dos Estados Unidos") [![Estados Unidos](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)](https://pt.wikipedia.org/wiki/Estados_Unidos "Estados Unidos")
 
-\[[Expandir](#)\]
-
-*   [v](https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Conflitos_armados_envolvendo_os_Estados_Unidos "Predefinição:Conflitos armados envolvendo os Estados Unidos")
-*   [d](https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o_Discuss%C3%A3o:Conflitos_armados_envolvendo_os_Estados_Unidos "Predefinição Discussão:Conflitos armados envolvendo os Estados Unidos")
-*   [e](https://pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Conflitos_armados_envolvendo_os_Estados_Unidos&action=edit)
-
-[Conflitos armados envolvendo](https://pt.wikipedia.org/wiki/Lista_de_conflitos_envolvendo_os_Estados_Unidos "Lista de conflitos envolvendo os Estados Unidos") as [Forças Armadas dos Estados Unidos](https://pt.wikipedia.org/wiki/For%C3%A7as_Armadas_dos_Estados_Unidos "Forças Armadas dos Estados Unidos") [![Estados Unidos](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)](https://pt.wikipedia.org/wiki/Estados_Unidos "Estados Unidos")
-
-Internos
+### Internos
 
 *   [Rebelião de Shays](https://pt.wikipedia.org/wiki/Rebeli%C3%A3o_de_Shays "Rebelião de Shays")
 *   [Rebelião do Whiskey](https://pt.wikipedia.org/wiki/Rebeli%C3%A3o_do_Whiskey "Rebelião do Whiskey")
@@ -781,7 +771,7 @@ Internos
 *   [Rebelião Racial de Tulsa em 1921](https://pt.wikipedia.org/wiki/Rebeli%C3%A3o_Racial_de_Tulsa_em_1921 "Rebelião Racial de Tulsa em 1921")
 *   [Bonus Army](https://pt.wikipedia.org/wiki/Bonus_Army "Bonus Army")
 
-Externos
+### Externos
 
 *   [Guerra Revolucionária](https://pt.wikipedia.org/wiki/Guerra_de_Independ%C3%AAncia_dos_Estados_Unidos "Guerra de Independência dos Estados Unidos")
 *   [Quase-Guerra](https://pt.wikipedia.org/wiki/Quase-guerra "Quase-guerra")
@@ -822,8 +812,7 @@ Externos
 *   [Guerra do Afeganistão](https://pt.wikipedia.org/wiki/Guerra_do_Afeganist%C3%A3o_(2001%E2%80%932021) "Guerra do Afeganistão (2001–2021)")
 *   [Guerra contra o Estado Islâmico](https://pt.wikipedia.org/wiki/Guerra_contra_o_Estado_Isl%C3%A2mico "Guerra contra o Estado Islâmico") ([Iraque](https://pt.wikipedia.org/wiki/Interven%C3%A7%C3%A3o_militar_no_Iraque_(2014%E2%80%932021) "Intervenção militar no Iraque (2014–2021)"), [Síria](https://pt.wikipedia.org/wiki/Interven%C3%A7%C3%A3o_militar_na_S%C3%ADria "Intervenção militar na Síria"))
 
-Artigos  
-relacionados
+### Artigos relacionados
 
 *   [Lista de conflitos nos Estados Unidos](/w/index.php?title=Lista_de_conflitos_nos_Estados_Unidos&action=edit&redlink=1 "Lista de conflitos nos Estados Unidos (página não existe)")
 *   [Lista de conflitos envolvendo os Estados Unidos](https://pt.wikipedia.org/wiki/Lista_de_conflitos_envolvendo_os_Estados_Unidos "Lista de conflitos envolvendo os Estados Unidos")
