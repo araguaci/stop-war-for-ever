@@ -57,9 +57,7 @@ A Lituânia foi libertada do jugo comunista e a Ucrânia também.
 
 O IPCO, juntamente com as entidades afins e co-irmãs de todo o mundo, promove uma campanha de orações pelos nossos irmãos católicos e por todos os ucranianos que estão sendo novamente ameaçados pelas ambições de Putin em refazer a URSS e muitos sacrificando a própria vida.
 
-Acesse [https://www.rezepelaucrania.org.br/](https://www.rezepelaucrania.org.br/) para marcar o números de Ave-Marias que você já rezou.
-
-**Reze pela PAZ**
+> **Reze pela PAZ**
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
@@ -71,7 +69,7 @@ Today, IPCO, together with similar entities and sisters from all over the world,
 
 Our goal is to achieve5,000,000of Hail Marys prayed all over the world, asking Our Lady to free Ukraine from war and the communist yoke.
 
-**Pray for PEACE**
+> **Pray for PEACE**
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
