@@ -1,3 +1,15 @@
+### PEACE 🕊️
+### FRIEDEN 🕊️
+### VREDE 🕊️
+### PAIX 🕊️
+### PAZ 🕊️
+### POKÓJ 🕊️
+### МИР 🕊️
+### BARİŞ 🕊️
+### 和平 🕊️
+### صلح 🕊️ 
+### שָׁלוֹם🕊️ 
+### سلام🕊️ 
 ## Como parar a guerra 
 
 A paz é um objetivo crucial para a humanidade, e embora não haja uma solução única, existem abordagens que podem contribuir para o fim das guerras:
