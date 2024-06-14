@@ -1,30 +1,33 @@
-### PEACE 🕊️
-### FRIEDEN 🕊️
-### VREDE 🕊️
-### PAIX 🕊️
-### PAZ 🕊️
-### POKÓJ 🕊️
-### МИР 🕊️
-### BARİŞ 🕊️
-### 和平 🕊️
-### صلح 🕊️ 
-### שָׁלוֹם🕊️ 
-### سلام🕊️ 
 ## Como parar a guerra 
 
-A paz é um objetivo crucial para a humanidade, e embora não haja uma solução única, existem abordagens que podem contribuir para o fim das guerras:
+  - **PEACE 🕊️**
+  - **FRIEDEN 🕊️**
+  - **VREDE 🕊️**
+  - **PAIX 🕊️**
+  - **PAZ 🕊️**
+  - **POKÓJ 🕊️**
+  - **МИР 🕊️**
+  - **BARİŞ 🕊️**
+  - **和平 🕊️**
+  - **صلح 🕊️**
+  - **שָׁלוֹם🕊️**
+  - **سلام🕊️**
 
-Diplomacia e Negociação:
+A **paz é um objetivo crucial para a humanidade**, e embora não haja uma solução única, existem abordagens que podem contribuir para o fim das guerras:
 
-O diálogo entre as partes em conflito é essencial. As conversações diplomáticas envolvem compreender os interesses, posições e perspectivas de cada lado.
-Instituições internacionais, como as Nações Unidas (ONU), desempenham um papel na facilitação das negociações e na promoção da paz.
-A participação inclusiva de diversos atores, incluindo jovens e mulheres, pode levar a processos de paz mais eficazes¹²³.
-Prevenção de Conflitos:
+1. **Diplomacia e Negociação:**
 
-Sistemas de alerta precoce ajudam a identificar potenciais conflitos antes que se transformem em guerras.
-Estruturas flexíveis para a diplomacia internacional permitem intervenções oportunas.
-Líderes políticos devem considerar recomendações da psicologia social para criar um ambiente global mais seguro⁴.
-Lembre-se de que o fim das guerras requer esforços coletivos, comprometimento e pensamento inovador. 🕊️🌍
+   - O **diálogo** entre as partes em conflito é essencial. 
+   - As **conversações diplomáticas** envolvem compreender os interesses, posições e perspectivas de cada lado.
+   - **Instituições internacionais**, como as Nações Unidas (ONU), desempenham um papel na facilitação das negociações e na promoção da paz.
+   - A **participação inclusiva** de diversos atores, incluindo jovens e mulheres, pode levar a processos de paz mais eficazes¹²³.
+
+2. **Prevenção de Conflitos:**
+
+   - **Sistemas de alerta** precoce ajudam a identificar potenciais conflitos antes que se transformem em guerras.
+   - **Estruturas flexíveis para a diplomacia** internacional permitem intervenções oportunas.
+   - **Líderes políticos devem considerar recomendações da psicologia social** para criar um ambiente global mais seguro⁴.
+   - Lembre-se de que o fim das guerras requer **esforços coletivos**, comprometimento e pensamento inovador. 🕊️🌍
 
 ----
   1. 5 formas de evitar guerra entre Rússia e Ucrânia - BBC. https://www.bbc.com/portuguese/geral-6035571[2](https://www.cnnbrasil.com.br/internacional/entenda-como-a-onu-atua-na-solucao-de-conflitos-mundiais/).
@@ -94,7 +97,11 @@ Apenas 11 das intervenções contaram com declarações de guerra aprovadas pelo
 
 A principal fonte de informações para esta cronologia é um relatório do Serviço de Pesquisas do [Congresso dos Estados Unidos](https://crsreports.congress.gov/product/pdf/R/R42738/34).[\[2\]](#cite_note-2)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  - [linha-do-tempo-operacoes-eua](https://cronologia-operacoes-eua.vercel.app/)
+
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1798-1800
 
 *   1798-1800 - Guerra Naval não declarada contra a [França](https://pt.wikipedia.org/wiki/Fran%C3%A7a "França"). Inclui ações de terra, como na cidade de [Puerto Plata](https://pt.wikipedia.org/wiki/Puerto_Plata "Puerto Plata") na [República Dominicana](https://pt.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana "República Dominicana"), onde fuzileiros navais capturaram um corsário francês, em ação autorizada pelo Congresso.
 
@@ -104,7 +111,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1806-1810 - [Golfo do México](https://pt.wikipedia.org/wiki/Golfo_do_M%C3%A9xico "Golfo do México"). Canhoneiras americanas partiram de [Nova Orleans](https://pt.wikipedia.org/wiki/Nova_Orleans "Nova Orleans") contra corsários espanhóis e franceses ao largo do [delta](https://pt.wikipedia.org/wiki/Delta_do_Mississippi "Delta do Mississippi") do [Rio Mississipi](https://pt.wikipedia.org/wiki/Rio_Mississipi "Rio Mississipi").
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1810
 
 *   1812 - [Ilha Amélia](https://pt.wikipedia.org/wiki/Ilha_Am%C3%A9lia "Ilha Amélia"), [Fernandina](https://pt.wikipedia.org/wiki/Fernandina_Beach "Fernandina Beach") e outras partes extremo-nordeste da [Flórida Oriental](https://pt.wikipedia.org/wiki/Fl%C3%B3rida_Oriental "Flórida Oriental"), então territórios do [Império Espanhol](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Espanhol "Império Espanhol"), uma posse temporária foi autorizada pelo presidente [James Madison](https://pt.wikipedia.org/wiki/James_Madison "James Madison") e pelo Congresso.
 
@@ -130,7 +139,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1818 - [Oregon](https://pt.wikipedia.org/wiki/Oregon "Oregon"). Em agosto é realizado um desembarque no [Rio Columbia](https://pt.wikipedia.org/wiki/Rio_Columbia "Rio Columbia") a partir de um navio (U.S.S. Ontario) enviado a partir de [Washington](https://pt.wikipedia.org/wiki/Washington "Washington"), por meio do qual tomou-se posse do território de Oregon. O [Império Britânico](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Brit%C3%A2nico "Império Britânico") havia concedido a soberania, mas os Impérios [Russo](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Russo "Império Russo") e [Espanhol](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Espanhol "Império Espanhol") também reivindicavam a área.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1820
 
 *   1820-1823 - [África](https://pt.wikipedia.org/wiki/%C3%81frica "África"). Unidades navais reprimem o tráfico de escravos nos termos de uma Lei de 1819, que declarou infame o tráfico de escravos.[\[5\]](#cite_note-5)
 
@@ -146,7 +157,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1827 - [Grécia](https://pt.wikipedia.org/wiki/Gr%C3%A9cia "Grécia") - Em outubro e novembro desembarque de pequenos destacamentos para caçar piratas nas ilhas de **Argenteire**, [Míconos](https://pt.wikipedia.org/wiki/M%C3%ADconos "Míconos") e [Andros](https://pt.wikipedia.org/wiki/Andros_(Gr%C3%A9cia) "Andros (Grécia)").
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1830
 
 *   1831-1832 - [Ilhas Malvinas](https://pt.wikipedia.org/wiki/Ilhas_Malvinas "Ilhas Malvinas") (Falkland Islands) - O Capitão [Silas Duncan](https://pt.wikipedia.org/wiki/Silas_Duncan "Silas Duncan") atacou _[Puerto Soledad](https://pt.wikipedia.org/wiki/Puerto_Soledad "Puerto Soledad")_ e fez prisioneiros após a apreensão de três baleeiros norte-americanos, os prisioneiros foram posteriormente entregues ao governo da [Argentina](https://pt.wikipedia.org/wiki/Argentina "Argentina").
 
@@ -160,7 +173,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1838-1839 - [Sumatra](https://pt.wikipedia.org/wiki/Sumatra "Sumatra") - Entre 24 de dezembro de 1838 e 4 de janeiro de 1839, ocorreu uma [expedição punitiva](https://pt.wikipedia.org/wiki/Expedi%C3%A7%C3%A3o_punitiva "Expedição punitiva") contra nativos das cidades de [Quallah Battoo](https://pt.wikipedia.org/wiki/Kuala_Batee "Kuala Batee") e **Muckie (Mukki)**, por depredações de um navio mercante [Segunda Expedição Punitiva à Sumatra](https://pt.wikipedia.org/wiki/Expedi%C3%A7%C3%B5es_Punitivas_%C3%A0_Sumatra "Expedições Punitivas à Sumatra").
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1840
 
 *   1840 - [Ilhas Fiji](https://pt.wikipedia.org/wiki/Ilhas_Fiji "Ilhas Fiji") - Em Julho [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") desembarcaram para punir nativos que atacaram americanos que faziam levantamento topográfico.
 
@@ -180,7 +195,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1849 - [Império Otomano](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Otomano "Império Otomano") - [Esmirna](https://pt.wikipedia.org/wiki/Esmirna "Esmirna") - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") em julho para libertar de um americano capturado por oficiais do [Império Austríaco](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Austr%C3%ADaco "Império Austríaco").
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1850
 
 *   1851 - [Império Otomano](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Otomano "Império Otomano") - [Jafa](https://pt.wikipedia.org/wiki/Jafa "Jafa"), que atualmente pertence a [Israel](https://pt.wikipedia.org/wiki/Israel "Israel"), sendo o porto de [Telavive](https://pt.wikipedia.org/wiki/Telavive "Telavive") - em janeiro foi ordenada uma operação depois de um massacre de estrangeiros (inclusive norte-americanos).
 
@@ -222,7 +239,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1859 – [China](https://pt.wikipedia.org/wiki/China "China") - Entre 31 de julho e 2 de agosto - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") para proteger interesses americanos em [Xangai](https://pt.wikipedia.org/wiki/Xangai "Xangai").
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1860
 
 *   1860 - [Angola](https://pt.wikipedia.org/wiki/Angola "Angola"), então parte do [Império Português](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Portugu%C3%AAs "Império Português") - 1 de março. Norte-americanos residentes em Kissembo chamaram navios americanos e britânicos para proteger vidas e propriedades durante conflitos com nativos.
 
@@ -250,7 +269,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1868 – [Colômbia](https://pt.wikipedia.org/wiki/Col%C3%B4mbia "Colômbia") - Abril - Proteção a passageiros e valores em trânsito em [Aspinwall](https://pt.wikipedia.org/wiki/Col%C3%B3n_(Panam%C3%A1) "Colón (Panamá)") durante a ausência da polícia local por ocasião da morte do presidente da Colômbia.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1870
 
 *   1870 – [México](https://pt.wikipedia.org/wiki/M%C3%A9xico "México") - 17 e 18 de junho - Destruição de um navio pirata, que tinha sido encalhado a cerca de 64 km acima da foz do **Rio Tecapan**.
 
@@ -266,7 +287,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1876 - [México](https://pt.wikipedia.org/wiki/M%C3%A9xico "México") - 18 de maio - Envio de tropas para servir como polícia na cidade de [Matamoros](https://pt.wikipedia.org/wiki/Matamoros "Matamoros"), no Estado de [Tamaulipas](https://pt.wikipedia.org/wiki/Tamaulipas "Tamaulipas"), temporariamente, enquanto aquela cidade estava sem governo.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1880
 
 *   1882 – [Egito](https://pt.wikipedia.org/wiki/Egito "Egito") - Entre 14 e 18 de julho - Proteção de interesses norte-americanos durante uma guerra entre britânicos e egípcios e saques da cidade de [Alexandria](https://pt.wikipedia.org/wiki/Alexandria "Alexandria") pelos árabes.
 
@@ -280,7 +303,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1889 - [Reino do Havaí](https://pt.wikipedia.org/wiki/Reino_do_Hava%C3%AD "Reino do Havaí") - 30 e 31 de julho - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") em [Honolulu](https://pt.wikipedia.org/wiki/Honolulu "Honolulu") para proteger interesses norte-americanos durante uma revolução liderada por [Robert William Wilcox](https://pt.wikipedia.org/wiki/Robert_William_Wilcox "Robert William Wilcox").
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1890
 
 *   1890 - [Argentina](https://pt.wikipedia.org/wiki/Argentina "Argentina") - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") para proteger o consulado e embaixada dos EUA em [Buenos Aires](https://pt.wikipedia.org/wiki/Buenos_Aires "Buenos Aires").
 
@@ -316,7 +341,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1899-1901 - [Filipinas](https://pt.wikipedia.org/wiki/Filipinas "Filipinas") - [Guerra Filipino-Americana](https://pt.wikipedia.org/wiki/Guerra_Filipino-Americana "Guerra Filipino-Americana") - Proteção aos interesses norte-americanos na sequência da guerra contra o [Império Espanhol](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Espanhol "Império Espanhol"), derrotando nativos filipinos que buscavam a independência nacional.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1900
 
 *   1900 - [China](https://pt.wikipedia.org/wiki/China "China") - Entre 24 de maio e 28 de setembro - [Guerra dos boxers](https://pt.wikipedia.org/wiki/Levante_dos_boxers "Levante dos boxers") - Soldados americanos participaram nas operações para proteger a vida de estrangeiros, especialmente em [Pequim](https://pt.wikipedia.org/wiki/Pequim "Pequim"), sendo que a presença militar em Pequim se prolongou por muitos anos após esse conflito. [\[RL30172\]](#endnote_RL30172)
 
@@ -348,7 +375,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1907 - [Honduras](https://pt.wikipedia.org/wiki/Honduras "Honduras") - Entre 18 de março e 8 de junho - Para proteger interesses norte-americanos durante a guerra entre [Honduras](https://pt.wikipedia.org/wiki/Honduras "Honduras") e [Nicarágua](https://pt.wikipedia.org/wiki/Nicar%C3%A1gua "Nicarágua"), envio de tropas para [Trujillo](https://pt.wikipedia.org/wiki/Trujillo "Trujillo"), [Ceiba](https://pt.wikipedia.org/wiki/Ceiba "Ceiba"), [Puerto Cortes](https://pt.wikipedia.org/wiki/w/index.php?title=Puerto_Cortes&action=edit&redlink=1 "Puerto Cortes (página não existe)"), [San Pedro Sula](https://pt.wikipedia.org/wiki/San_Pedro_Sula "San Pedro Sula"), [Laguna](https://pt.wikipedia.org/wiki/Laguna "Laguna") e [Choloma](https://pt.wikipedia.org/wiki/Choloma "Choloma").[\[RL30172\]](#endnote_RL30172)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1910
 
 *   1910 - [Nicarágua](https://pt.wikipedia.org/wiki/Nicar%C3%A1gua "Nicarágua") - Entre 19 de maio e 4 de setembro de 1910 - Proteção aos interesses norte-americanos em [Bluefields](https://pt.wikipedia.org/wiki/Bluefields "Bluefields").
 
@@ -402,7 +431,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1919 - [Honduras](https://pt.wikipedia.org/wiki/Honduras "Honduras") - Entre 08 e 12 de setembro - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") para manter a ordem em uma zona neutra durante uma tentativa de revolução.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1920
 
 *   1920 - [China](https://pt.wikipedia.org/wiki/China "China") - 14 de março - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") por algumas horas para proteger vidas norte-americanas durante uma agitação na [Chiuchiang](https://pt.wikipedia.org/wiki/w/index.php?title=Chiuchiang&action=edit&redlink=1 "Chiuchiang (página não existe)").[\[RL30172\]](#endnote_RL30172)
 
@@ -432,7 +463,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1927 - [China](https://pt.wikipedia.org/wiki/China "China") - Em fevereiro - A luta em [Xangai](https://pt.wikipedia.org/wiki/Xangai "Xangai") exigiu um acréscimos de forças navais e de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos"). Em março, uma guarnição naval foi posta no consulado americano em [Nanking](https://pt.wikipedia.org/wiki/Nanking "Nanking"), depois que forças nacionalistas capturaram a cidade. [Destróiers](https://pt.wikipedia.org/wiki/Destr%C3%B3ier "Destróier") americanos e britânicos dispararam para proteger norte-americanos e outros estrangeiros. Posteriormente, efetivos adicionais de _marines_ e mais navios de guerra foram estacionados nas proximidades de [Xangai](https://pt.wikipedia.org/wiki/Xangai "Xangai") e [Tientsin](https://pt.wikipedia.org/wiki/Tientsin "Tientsin").[\[RL30172\]](#endnote_RL30172)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1930
 
 *   1932 - [China](https://pt.wikipedia.org/wiki/China "China") - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") para proteger interesses norte-americanos durante a ocupação japonesa de [Xangai](https://pt.wikipedia.org/wiki/Xangai "Xangai").[\[RL30172\]](#endnote_RL30172)
 
@@ -440,7 +473,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1934 - [China](https://pt.wikipedia.org/wiki/China "China") - Desembarque de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") em [Fuzhou](https://pt.wikipedia.org/wiki/Fuzhou "Fuzhou") para proteger o consulado norte-americano.[\[RL30172\]](#endnote_RL30172)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1940
 
 *   1940 - [Terra Nova](https://pt.wikipedia.org/wiki/Terra_Nova "Terra Nova"), [Bermudas](https://pt.wikipedia.org/wiki/Bermudas "Bermudas"), [Santa Lúcia](https://pt.wikipedia.org/wiki/Santa_L%C3%BAcia "Santa Lúcia"), [Bahamas](https://pt.wikipedia.org/wiki/Bahamas "Bahamas"), [Jamaica](https://pt.wikipedia.org/wiki/Jamaica "Jamaica"), [Antigua](https://pt.wikipedia.org/wiki/Antigua "Antigua"), [Trinidad](https://pt.wikipedia.org/wiki/Trinidad "Trinidad") e [Guiana Britânica](https://pt.wikipedia.org/wiki/Guiana_Brit%C3%A2nica "Guiana Britânica") - Envio de tropas para proteger bases aéreas e navais obtidas por meio de negociações com o [Império Britânico](https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Brit%C3%A2nico "Império Britânico") em troca de [destróiers](https://pt.wikipedia.org/wiki/Destr%C3%B3ier "Destróier").[\[12\]](#cite_note-12)[\[RL30172\]](#endnote_RL30172)
 
@@ -474,7 +509,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1948-1949 - [China](https://pt.wikipedia.org/wiki/China "China") - Envio de [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") para [Nanking](https://pt.wikipedia.org/wiki/Nanking "Nanking") para proteger a embaixada dos EUA, quando a cidade foi tomada pelas tropas comunistas, e para [Xangai](https://pt.wikipedia.org/wiki/Xangai "Xangai") para ajudar na proteção e evacuação de norte-americanos.[\[RL30172\]](#endnote_RL30172)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1950
 
 *   1950-1953 - [Guerra da Coreia](https://pt.wikipedia.org/wiki/Guerra_da_Coreia "Guerra da Coreia") - Os EUA intervieram no conflito entre a [Coreia do Norte](https://pt.wikipedia.org/wiki/Coreia_do_Norte "Coreia do Norte") e a [Coreia do Sul](https://pt.wikipedia.org/wiki/Coreia_do_Sul "Coreia do Sul"), apoiados por resoluções do [Conselho de Segurança das Nações Unidas](https://pt.wikipedia.org/wiki/Conselho_de_Seguran%C3%A7a_das_Na%C3%A7%C3%B5es_Unidas "Conselho de Segurança das Nações Unidas"). No último ano do conflito havia mais de 300 mil norte-americanos na Coreia do Sul. Mais de 36 600 militares norte-americanos foram mortos em ação.[\[RL30172\]](#endnote_RL30172)
 
@@ -490,7 +527,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1959-1960 - [Caribe](https://pt.wikipedia.org/wiki/Caribe "Caribe") - Proteger cidadãos norte-americanos durante a [Revolução Cubana](https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Cubana "Revolução Cubana").[\[RL30172\]](#endnote_RL30172)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1960
 
 *   1962 - [Tailândia](https://pt.wikipedia.org/wiki/Tail%C3%A2ndia "Tailândia") - Em [17 de maio](https://pt.wikipedia.org/wiki/17_de_maio "17 de maio") de 1962, ocorreu um desembarque de 5.000 [marines](https://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos "Corpo de Fuzileiros Navais dos Estados Unidos") para apoiar o país perante a ameaça operações comunistas partindo do exterior; até [30 de julho](https://pt.wikipedia.org/wiki/30_de_julho "30 de julho"), os 5.000 marines foram retirados[\[RL30172\]](#endnote_RL30172)
 
@@ -511,7 +550,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1968 - [Laos](https://pt.wikipedia.org/wiki/Laos "Laos") e [Camboja](https://pt.wikipedia.org/wiki/Camboja "Camboja") - Início de uma campanha de bombardeios contra alvos secretos ao longo da [Trilha Ho Chi Minh](https://pt.wikipedia.org/wiki/Trilha_Ho_Chi_Minh "Trilha Ho Chi Minh") nas nações soberanas do Camboja e do Laos, campanha que irá durar pelo menos dois anos ([Operação Comando de Caça](https://pt.wikipedia.org/wiki/w/index.php?title=Opera%C3%A7%C3%A3o_Comando_de_Ca%C3%A7a&action=edit&redlink=1 "Operação Comando de Caça (página não existe)")).
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1970
 
 *   1970 - [Campanha do Camboja](https://pt.wikipedia.org/wiki/Campanha_do_Camboja "Campanha do Camboja"). Tropas estadunidenses foram requisitadas no Camboja para "limpar" santuários comunistas do qual o [Viet Cong](https://pt.wikipedia.org/wiki/Viet_Cong "Viet Cong") e norte-vietnamitas atacavam as forças americanas e sul-vietnamitas no Vietnã. O objeto deste ataque, que durou de [30 de abril](https://pt.wikipedia.org/wiki/30_de_abril "30 de abril") a [30 de junho](https://pt.wikipedia.org/wiki/30_de_junho "30 de junho"), foi garantir a retirada contínua das forças de segurança americanas do [Vietnã do Sul](https://pt.wikipedia.org/wiki/Vietn%C3%A3_do_Sul "Vietnã do Sul") e para apoiar o programa de [vietnamização](https://pt.wikipedia.org/wiki/Vietnamiza%C3%A7%C3%A3o "Vietnamização").[\[RL30172\]](#endnote_RL30172)
 
@@ -533,7 +574,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1978 - [Congo](https://pt.wikipedia.org/wiki/Rep%C3%BAblica_Democr%C3%A1tica_do_Congo "República Democrática do Congo") (Zaire) - Entre 19 de maio e junho de 1978, aviões de transporte militar norte-americanos prestaram apoio logístico às operações de salvamento belgas e franceses.[\[RL30172\]](#endnote_RL30172)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1980
 
 *   1980 - [Irão](https://pt.wikipedia.org/wiki/Ir%C3%A3o "Irão") - [Operação Garra de Águia](https://pt.wikipedia.org/wiki/w/index.php?title=Opera%C3%A7%C3%A3o_Garra_de_%C3%81guia&action=edit&redlink=1 "Operação Garra de Águia (página não existe)") - Em 26 abril de 1980, o [Presidente](https://pt.wikipedia.org/wiki/Presidente_dos_Estados_Unidos "Presidente dos Estados Unidos") [Jimmy Carter](https://pt.wikipedia.org/wiki/Jimmy_Carter "Jimmy Carter") relatou o uso de seis aviões de transporte e oito helicópteros em uma tentativa frustrada para resgatar [reféns norte-americanos](https://pt.wikipedia.org/wiki/Crise_do_Ir%C3%A3 "Crise do Irã").
 
@@ -585,7 +628,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1989-90 - [Panamá](https://pt.wikipedia.org/wiki/Panam%C3%A1 "Panamá") - [Operação Causa Justa](https://pt.wikipedia.org/wiki/Invas%C3%A3o_do_Panam%C3%A1_pelos_EUA_em_1989 "Invasão do Panamá pelos EUA em 1989") - Em 21 de dezembro de 1989, o [Presidente](https://pt.wikipedia.org/wiki/Presidente_dos_Estados_Unidos "Presidente dos Estados Unidos") [George Bush](https://pt.wikipedia.org/wiki/George_H._W._Bush "George H. W. Bush") informou que tinha ordenado às tropas norte-americanas no Panamá para proteger as vidas dos cidadãos norte-americanos e prender o General [Noriega](https://pt.wikipedia.org/wiki/Manuel_Antonio_Noriega "Manuel Antonio Noriega"). Até 13 fevereiro de 1990, todas as forças de invasão tinha sido retiradas.[\[RL30172\]](#endnote_RL30172) Cerca de 200 civis panamenhos foram mortos. O chefe de Estado do Panamá, general Manuel Noriega, foi capturado e levado para os Estados Unidos.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 1990
 
 *   1990 - [![Libéria](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/22px-Flag_of_Liberia.svg.png)](https://pt.wikipedia.org/wiki/Lib%C3%A9ria "Libéria") [Libéria](https://pt.wikipedia.org/wiki/Lib%C3%A9ria "Libéria"): Em 6 de agosto de 1990, o presidente Bush informou que uma companhia armada de rifles tinha sido enviada para fornecer segurança adicional para a embaixada dos Estados Unidos em [Monróvia](https://pt.wikipedia.org/wiki/Monr%C3%B3via "Monróvia"), e que equipes de helicópteros evacuaram cidadãos estadunidenses da Libéria. [\[RL30172\]](#endnote_RL30172)
 
@@ -651,7 +696,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 
 *   1999 - [![Jugoslávia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Yugoslavia_%281946-1992%29.svg/22px-Flag_of_Yugoslavia_%281946-1992%29.svg.png)](https://pt.wikipedia.org/wiki/Jugosl%C3%A1via "Jugoslávia") [República Federal da Iugoslávia](https://pt.wikipedia.org/wiki/Rep%C3%BAblica_Federal_da_Iugosl%C3%A1via "República Federal da Iugoslávia"): [Operação Força Aliada](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_For%C3%A7a_Aliada "Operação Força Aliada"): Aviões dos Estados Unidos e da OTAN iniciam um grande bombardeio a [Sérvia](https://pt.wikipedia.org/wiki/S%C3%A9rvia "Sérvia") e em posições sérvias no [Kosovo](https://pt.wikipedia.org/wiki/Kosovo "Kosovo") em 24 de março de 1999, durante a [Guerra do Kosovo](https://pt.wikipedia.org/wiki/Guerra_do_Kosovo "Guerra do Kosovo"), devido à recusa do presidente sérvio [Slobodan Milošević](https://pt.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87 "Slobodan Milošević") para acabar com a repressão contra os albaneses em Kosovo. Esta operação terminou em 10 de junho de 1999, quando Milošević concordou em retirar suas tropas do Kosovo. Em resposta à situação no Kosovo, a OTAN despachou as forças de paz da [KFOR](https://pt.wikipedia.org/wiki/For%C3%A7a_do_C%C3%B3ssovo "Força do Cóssovo") para garantir a paz nos termos da [Resolução 1244 do Conselho de Segurança das Nações Unidas](https://pt.wikipedia.org/wiki/Resolu%C3%A7%C3%A3o_1244_do_Conselho_de_Seguran%C3%A7a_das_Na%C3%A7%C3%B5es_Unidas "Resolução 1244 do Conselho de Segurança das Nações Unidas"). [\[RL30172\]](#endnote_RL30172)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 2000
 
 *   2000 - [![Serra Leoa](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/22px-Flag_of_Sierra_Leone.svg.png)](https://pt.wikipedia.org/wiki/Serra_Leoa "Serra Leoa") Serra Leoa: em 12 de maio de 2000, uma embarcação de patrulha da Marinha dos EUA implantada em Serra Leoa para apoiar as operações de evacuação daquele país, caso necessário. [\[RL30172\]](#endnote_RL30172)
 *   2000 - [![Nigéria](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/22px-Flag_of_Nigeria.svg.png)](https://pt.wikipedia.org/wiki/Nig%C3%A9ria "Nigéria") Nigéria: soldados das Forças Especiais são enviados para a Nigéria para liderar uma missão de treinamento no país[\[18\]](#cite_note-18)
@@ -673,7 +720,9 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 *   2007 - [![Somália](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/22px-Flag_of_Somalia.svg.png)](https://pt.wikipedia.org/wiki/Som%C3%A1lia "Somália") Somália: [Batalha de Ras Kamboni](https://pt.wikipedia.org/wiki/Batalha_de_Ras_Kamboni "Batalha de Ras Kamboni"), em 8 de janeiro de 2007, enquanto o conflito entre a [União dos Tribunais Islâmicos](https://pt.wikipedia.org/wiki/Uni%C3%A3o_dos_Tribunais_Isl%C3%A2micos "União dos Tribunais Islâmicos") e o [Governo Federal de Transição](https://pt.wikipedia.org/wiki/Governo_Federal_de_Transi%C3%A7%C3%A3o "Governo Federal de Transição") continua, um caça AC-130 realiza um ataque aéreo contra um suposto agente da Al-Qaeda, juntamente com outros combatentes islâmicos, na Ilha Badmadow perto de [Ras Kamboni](https://pt.wikipedia.org/wiki/w/index.php?title=Ras_Kamboni&action=edit&redlink=1 "Ras Kamboni (página não existe)") no sul da Somália.[\[24\]](#cite_note-24)
 *   2008 - [![Geórgia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/22px-Flag_of_Georgia.svg.png)](https://pt.wikipedia.org/wiki/Ge%C3%B3rgia "Geórgia") [Ossétia do Sul](https://pt.wikipedia.org/wiki/Oss%C3%A9tia_do_Sul "Ossétia do Sul"), Geórgia: ajuda humanitária a Geórgia,[\[25\]](#cite_note-american_instructors-25) ajudando a transportar as forças georgianas do Iraque durante [o conflito](https://pt.wikipedia.org/wiki/Guerra_Russo-Georgiana "Guerra Russo-Georgiana"). No passado, os Estados Unidos forneceram treinamento e armas para a Geórgia.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[⬆️ Top](#como-parar-a-guerra)**
+
+### 2010
 
 *   2010-11 - [![Iraque](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/22px-Flag_of_Iraq.svg.png)](https://pt.wikipedia.org/wiki/Iraque "Iraque") [Guerra no Iraque](https://pt.wikipedia.org/wiki/Guerra_do_Iraque "Guerra do Iraque") - Operação Novo Amanhecer: em 17 de fevereiro de 2010, o secretário de Defesa dos EUA, Robert Gates, anunciou que a partir de 1 de setembro de 2010, o nome "Operação Liberdade Iraquiana" seria substituído por "Operação Novo Amanhecer". Isto coincide com a redução de tropas americanas para 50.000.
 *   2011 - [![Líbia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/22px-Flag_of_Libya.svg.png)](https://pt.wikipedia.org/wiki/L%C3%ADbia "Líbia") Líbia: [Operação Amanhecer da Odisseia](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Amanhecer_da_Odisseia "Operação Amanhecer da Odisseia"), as forças da coalizão impondo a resolução 1973 do Conselho de Segurança da ONU, com bombardeios às forças líbias.
@@ -691,13 +740,15 @@ A principal fonte de informações para esta cronologia é um relatório do Serv
 *   2014 - [![Iraque](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/22px-Flag_of_Iraq.svg.png)](https://pt.wikipedia.org/wiki/Iraque "Iraque") Iraque: intervenção americana no Iraque, centenas de soldados norte-americanos destacados para proteger os ativos norte-americanos no Iraque e para assessorar os combatentes iraquianos e curdos.[\[32\]](#cite_note-32) Em agosto, a [Força Aérea dos Estados Unidos](https://pt.wikipedia.org/wiki/For%C3%A7a_A%C3%A9rea_dos_Estados_Unidos "Força Aérea dos Estados Unidos") realizou um lançamento aéreo humanitário e a [Marinha dos EUA](https://pt.wikipedia.org/wiki/Marinha_dos_EUA "Marinha dos EUA") iniciou uma série de ataques aéreos contra as forças alinhadas ao [Estado Islâmico](https://pt.wikipedia.org/wiki/Estado_Isl%C3%A2mico_do_Iraque_e_do_Levante "Estado Islâmico do Iraque e do Levante") em todo o norte do Iraque.[\[33\]](#cite_note-33)[\[34\]](#cite_note-34)
 *   2014 - [![Síria](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/22px-Flag_of_Syria.svg.png)](https://pt.wikipedia.org/wiki/S%C3%ADria "Síria") Síria: aeronaves americanas lançam bombas a uma base Estado Islâmico em [Uqayrishah](https://pt.wikipedia.org/wiki/w/index.php?title=Uqayrishah&action=edit&redlink=1 "Uqayrishah (página não existe)"), Síria, conhecida como "Osama bin Laden". Em conjunto com este, duas dúzias de comandos americanos foram mobilizados para invadir a aldeia a fim de resgatar o fotojornalista [James Foley](https://pt.wikipedia.org/wiki/James_Foley_(fotojornalista) "James Foley (fotojornalista)"). A operação não foi bem sucedida, com um soldado americano sendo ferido e James Foley sendo decapitado.[\[35\]](#cite_note-35)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Cronologia das operações militares dos Estados Unidos
 
-*   [Ações de derrubada de governos patrocinadas pela CIA](https://pt.wikipedia.org/wiki/A%C3%A7%C3%B5es_de_derrubada_de_governos_patrocinadas_pela_CIA "Ações de derrubada de governos patrocinadas pela CIA")
-*   [Expansão territorial dos Estados Unidos](https://pt.wikipedia.org/wiki/Expans%C3%A3o_territorial_dos_Estados_Unidos "Expansão territorial dos Estados Unidos")
-*   [Expansão ultramarina dos Estados Unidos](https://pt.wikipedia.org/wiki/Expans%C3%A3o_ultramarina_dos_Estados_Unidos "Expansão ultramarina dos Estados Unidos")
-*   [Imperialismo norte-americano](https://pt.wikipedia.org/wiki/Imperialismo_norte-americano "Imperialismo norte-americano")
+  - [linha-do-tempo-operacoes-eua](https://cronologia-operacoes-eua.vercel.app/)
+  - [Ações de derrubada de governos patrocinadas pela CIA](https://pt.wikipedia.org/wiki/A%C3%A7%C3%B5es_de_derrubada_de_governos_patrocinadas_pela_CIA "Ações de derrubada de governos patrocinadas pela CIA")
+  - [Expansão territorial dos Estados Unidos](https://pt.wikipedia.org/wiki/Expans%C3%A3o_territorial_dos_Estados_Unidos "Expansão territorial dos Estados Unidos")
+  - [Expansão ultramarina dos Estados Unidos](https://pt.wikipedia.org/wiki/Expans%C3%A3o_ultramarina_dos_Estados_Unidos "Expansão ultramarina dos Estados Unidos")
+  - [Imperialismo norte-americano](https://pt.wikipedia.org/wiki/Imperialismo_norte-americano "Imperialismo norte-americano")
 
+**[⬆️ Top](#como-parar-a-guerra)**
 
 ### Referências
 
